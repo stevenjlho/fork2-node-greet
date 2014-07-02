@@ -1,5 +1,5 @@
 // var expect = require("chai").expect
-var greet = require("../index.js");
+var greet = require("../lib/index.js");
 
 describe('should greet a person by name',function() {
 	it("should greet a person by name", function() {
